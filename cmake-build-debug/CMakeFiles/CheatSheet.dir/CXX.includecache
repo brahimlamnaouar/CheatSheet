@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/brahim/Workspace/CheatSheet/library.h
+iostream
+-
+vector
+-
+algorithm
+-
+
+/home/brahim/Workspace/CheatSheet/stl.cpp
+library.h
+/home/brahim/Workspace/CheatSheet/library.h
+

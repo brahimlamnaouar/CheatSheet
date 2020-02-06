@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="CheatSheet" targetName="CheatSheet" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88db2623-7cf6-46dd-a36c-337da3c671f9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1XDv18TjN9DEQKi0mGbpTULXJvo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/stl" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CheatSheet" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CheatSheet" TARGET_NAME="CheatSheet" CONFIG_NAME="Debug" RUN_PATH="$PROJECT_DIR$/stl">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88db2623-7cf6-46dd-a36c-337da3c671f9" name="Default Changelist" comment="" />
+      <created>1580593261996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580593261996</updated>
+      <workItem from="1580593265124" duration="4673000" />
+      <workItem from="1580666042795" duration="17516000" />
+      <workItem from="1580746554660" duration="1628000" />
+      <workItem from="1580840739863" duration="858000" />
+      <workItem from="1580914772451" duration="3946000" />
+      <workItem from="1581007925035" duration="642000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="191" y="280" width="568" height="545" key="#CheatSheet" timestamp="1580595904829">
+      <screen x="0" y="29" width="1920" height="1051" />
+    </state>
+    <state x="191" y="280" width="568" height="545" key="#CheatSheet/313.1080.1366.768/0.29.1920.1051@0.29.1920.1051" timestamp="1580595904829" />
+    <state x="465" y="64" width="800" height="673" key="#HTTP_Proxy" timestamp="1580732154280">
+      <screen x="0" y="29" width="1366" height="739" />
+    </state>
+    <state x="465" y="64" width="800" height="673" key="#HTTP_Proxy/0.29.1366.739@0.29.1366.739" timestamp="1580732154280" />
+    <state x="0" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580598906963">
+      <screen x="0" y="29" width="1920" height="1051" />
+    </state>
+    <state x="0" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog/313.1080.1366.768/0.29.1920.1051@0.29.1920.1051" timestamp="1580598906963" />
+    <state x="258" y="310" width="424" height="480" key="FileChooserDialogImpl" timestamp="1580595903111">
+      <screen x="0" y="29" width="1920" height="1051" />
+    </state>
+    <state x="258" y="310" width="424" height="480" key="FileChooserDialogImpl/313.1080.1366.768/0.29.1920.1051@0.29.1920.1051" timestamp="1580595903111" />
+    <state width="914" height="255" key="GridCell.Tab.0.bottom" timestamp="1580598870030">
+      <screen x="0" y="29" width="1920" height="1051" />
+    </state>
+    <state width="914" height="255" key="GridCell.Tab.0.bottom/313.1080.1366.768/0.29.1920.1051@0.29.1920.1051" timestamp="1580598870030" />
+    <state width="914" height="255" key="GridCell.Tab.0.center" timestamp="1580598870030">
+      <screen x="0" y="29" width="1920" height="1051" />
+    </state>
+    <state width="914" height="255" key="GridCell.Tab.0.center/313.1080.1366.768/0.29.1920.1051@0.29.1920.1051" timestamp="1580598870030" />
+    <state width="914" height="255" key="GridCell.Tab.0.left" timestamp="1580598870030">
+      <screen x="0" y="29" width="1920" height="1051" />
+    </state>
+    <state width="914" height="255" key="GridCell.Tab.0.left/313.1080.1366.768/0.29.1920.1051@0.29.1920.1051" timestamp="1580598870030" />
+    <state width="914" height="255" key="GridCell.Tab.0.right" timestamp="1580598870030">
+      <screen x="0" y="29" width="1920" height="1051" />
+    </state>
+    <state width="914" height="255" key="GridCell.Tab.0.right/313.1080.1366.768/0.29.1920.1051@0.29.1920.1051" timestamp="1580598870030" />
+    <state x="374" y="38" key="SettingsEditor" timestamp="1580732795096">
+      <screen x="0" y="29" width="1366" height="739" />
+    </state>
+    <state x="374" y="38" key="SettingsEditor/0.29.1366.739@0.29.1366.739" timestamp="1580732795096" />
+    <state x="525" y="210" key="SettingsEditor/313.1080.1366.768/0.29.1920.1051@0.29.1920.1051" timestamp="1580596058550" />
+    <state x="347" y="71" width="662" height="651" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580680575349">
+      <screen x="0" y="29" width="1366" height="739" />
+    </state>
+    <state x="347" y="71" width="662" height="651" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.29.1366.739@0.29.1366.739" timestamp="1580680575348" />
+    <state x="102" y="191" width="672" height="477" key="search.everywhere.popup" timestamp="1580746852710">
+      <screen x="0" y="29" width="1366" height="739" />
+    </state>
+    <state x="102" y="191" width="672" height="477" key="search.everywhere.popup/0.29.1366.739@0.29.1366.739" timestamp="1580746852710" />
+    <state x="143" y="260" width="672" height="678" key="search.everywhere.popup/313.1080.1366.768/0.29.1920.1051@0.29.1920.1051" timestamp="1580599240622" />
+  </component>
+</project>
