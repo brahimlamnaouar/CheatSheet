@@ -11,7 +11,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88db2623-7cf6-46dd-a36c-337da3c671f9" name="Default Changelist" comment="" />
+    <list default="true" id="88db2623-7cf6-46dd-a36c-337da3c671f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +25,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XDv18TjN9DEQKi0mGbpTULXJvo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/stl" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -39,7 +48,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="CheatSheet" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CheatSheet" TARGET_NAME="CheatSheet" CONFIG_NAME="Debug" RUN_PATH="$PROJECT_DIR$/stl">
@@ -63,7 +72,7 @@
       <workItem from="1580746554660" duration="1628000" />
       <workItem from="1580840739863" duration="858000" />
       <workItem from="1580914772451" duration="3946000" />
-      <workItem from="1581007925035" duration="642000" />
+      <workItem from="1581007925035" duration="18455000" />
     </task>
     <servers />
   </component>
@@ -103,15 +112,15 @@
       <screen x="0" y="29" width="1920" height="1051" />
     </state>
     <state width="914" height="255" key="GridCell.Tab.0.right/313.1080.1366.768/0.29.1920.1051@0.29.1920.1051" timestamp="1580598870030" />
-    <state x="374" y="38" key="SettingsEditor" timestamp="1580732795096">
+    <state x="374" y="38" key="SettingsEditor" timestamp="1581009900149">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
-    <state x="374" y="38" key="SettingsEditor/0.29.1366.739@0.29.1366.739" timestamp="1580732795096" />
+    <state x="374" y="38" key="SettingsEditor/0.29.1366.739@0.29.1366.739" timestamp="1581009900149" />
     <state x="525" y="210" key="SettingsEditor/313.1080.1366.768/0.29.1920.1051@0.29.1920.1051" timestamp="1580596058550" />
-    <state x="347" y="71" width="662" height="651" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580680575349">
+    <state x="347" y="71" width="662" height="651" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581014794184">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
-    <state x="347" y="71" width="662" height="651" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.29.1366.739@0.29.1366.739" timestamp="1580680575348" />
+    <state x="347" y="71" width="662" height="651" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.29.1366.739@0.29.1366.739" timestamp="1581014794184" />
     <state x="102" y="191" width="672" height="477" key="search.everywhere.popup" timestamp="1580746852710">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
