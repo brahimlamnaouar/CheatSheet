@@ -4,7 +4,7 @@ This cheatsheet contains most of the stuff you'll need to conquer CP competition
 
 ***Made By Brahim Lamnaouar - Team Member Of Plankalkul***
 
-## BASICS FIRST
+## BASIC DATA STRUCTURES
 
 Here we'll dive into the basics data structures of ***`CPP`***.
 
@@ -661,5 +661,12 @@ These functions take a `first iterator` and `size` instead of `first and last it
 
 ***19.9. destroy_n :*** [Destroy](#184-destroy)
 
+## EXECUTION POLICY
+### 1. Sequenced Policy
+`std::execution::sequenced_policy` OR  `std::execution::seq`
 
+The execution policy type used as a unique type to disambiguate parallel algorithm overloading and require that a parallel algorithm's execution may not be parallelized. The invocations of element access functions in parallel algorithms invoked with this policy (usually specified as std::execution::seq) are indeterminately sequenced in the calling thread.
 
+### 2. Policy
+### 2. Policy
+### 2. Policy

@@ -3,4 +3,4 @@ project(CheatSheet)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_library(CheatSheet library.cpp stl.cpp library.h)
+add_library(CheatSheet library.cpp stl.cpp library.h Modules/Graph.cpp Modules/Graph.h)

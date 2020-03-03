@@ -84,6 +84,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/brahim/Workspace/CheatSheet/Modules/Graph.cpp">
+			<Option target="CheatSheet"/>
+		</Unit>
+		<Unit filename="/home/brahim/Workspace/CheatSheet/Modules/Graph.h">
+			<Option target="CheatSheet"/>
+		</Unit>
 		<Unit filename="/home/brahim/Workspace/CheatSheet/library.cpp">
 			<Option target="CheatSheet"/>
 		</Unit>

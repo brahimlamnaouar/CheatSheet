@@ -12,9 +12,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88db2623-7cf6-46dd-a36c-337da3c671f9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/brahim.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/brahim.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HANDBOOK.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modules/Graph.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modules/Graph.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CheatSheet.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CheatSheet.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CheatSheet.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CheatSheet.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CheatSheet.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CheatSheet.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CheatSheet.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CheatSheet.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CheatSheet.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CheatSheet.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CheatSheet.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CheatSheet.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +56,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/stl" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TP" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -72,7 +89,23 @@
       <workItem from="1580746554660" duration="1628000" />
       <workItem from="1580840739863" duration="858000" />
       <workItem from="1580914772451" duration="3946000" />
-      <workItem from="1581007925035" duration="30074000" />
+      <workItem from="1581007925035" duration="38470000" />
+      <workItem from="1581183212976" duration="242000" />
+      <workItem from="1581256561903" duration="1240000" />
+      <workItem from="1581366777469" duration="18000" />
+      <workItem from="1581366807442" duration="1059000" />
+      <workItem from="1581442423214" duration="1718000" />
+      <workItem from="1581706757154" duration="7325000" />
+      <workItem from="1581883622122" duration="63000" />
+      <workItem from="1581888228155" duration="1660000" />
+      <workItem from="1581929971093" duration="825000" />
+      <workItem from="1582044304616" duration="615000" />
+      <workItem from="1582108696817" duration="288000" />
+      <workItem from="1582367200056" duration="2028000" />
+      <workItem from="1582490153233" duration="9000" />
+      <workItem from="1582894458147" duration="3168000" />
+      <workItem from="1582977255645" duration="2175000" />
+      <workItem from="1583069055160" duration="612000" />
     </task>
     <servers />
   </component>
@@ -93,9 +126,10 @@
     </state>
     <state x="0" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.29.1366.739@0.29.1366.739" timestamp="1581082331800" />
     <state x="0" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog/313.1080.1366.768/0.29.1920.1051@0.29.1920.1051" timestamp="1580598906963" />
-    <state x="258" y="310" width="424" height="480" key="FileChooserDialogImpl" timestamp="1580595903111">
-      <screen x="0" y="29" width="1920" height="1051" />
+    <state x="184" y="205" width="317" height="351" key="FileChooserDialogImpl" timestamp="1581883681105">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
+    <state x="184" y="205" width="317" height="351" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1581883681105" />
     <state x="258" y="310" width="424" height="480" key="FileChooserDialogImpl/313.1080.1366.768/0.29.1920.1051@0.29.1920.1051" timestamp="1580595903111" />
     <state width="914" height="255" key="GridCell.Tab.0.bottom" timestamp="1580598870030">
       <screen x="0" y="29" width="1920" height="1051" />
@@ -122,9 +156,14 @@
       <screen x="0" y="29" width="1366" height="739" />
     </state>
     <state x="347" y="71" width="662" height="651" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.29.1366.739@0.29.1366.739" timestamp="1581014794184" />
-    <state x="102" y="191" width="672" height="477" key="search.everywhere.popup" timestamp="1581082321248">
+    <state x="347" y="177" key="run.anything.popup" timestamp="1581111955360">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
+    <state x="347" y="177" key="run.anything.popup/0.29.1366.739@0.29.1366.739" timestamp="1581111955360" />
+    <state x="102" y="168" width="672" height="496" key="search.everywhere.popup" timestamp="1581707083905">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="102" y="168" width="672" height="496" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1581707083905" />
     <state x="102" y="191" width="672" height="477" key="search.everywhere.popup/0.29.1366.739@0.29.1366.739" timestamp="1581082321248" />
     <state x="143" y="260" width="672" height="678" key="search.everywhere.popup/313.1080.1366.768/0.29.1920.1051@0.29.1920.1051" timestamp="1580599240622" />
   </component>

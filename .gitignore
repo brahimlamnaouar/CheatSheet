@@ -1,2 +1,6 @@
-.idea/*
+.idea/
 *.swp
+*.o
+*.exe
+cmake-build-debug
+CMakeLists.txt

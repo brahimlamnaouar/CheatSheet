@@ -34,10 +34,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /snap/clion/100/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /snap/clion/103/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /snap/clion/100/bin/cmake/linux/bin/cmake -E remove -f
+RM = /snap/clion/103/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -83,19 +83,34 @@ CMakeFiles/CheatSheet.dir/stl.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CheatSheet.dir/stl.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/brahim/Workspace/CheatSheet/stl.cpp -o CMakeFiles/CheatSheet.dir/stl.cpp.s
 
+CMakeFiles/CheatSheet.dir/Modules/Graph.cpp.o: CMakeFiles/CheatSheet.dir/flags.make
+CMakeFiles/CheatSheet.dir/Modules/Graph.cpp.o: ../Modules/Graph.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/brahim/Workspace/CheatSheet/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CheatSheet.dir/Modules/Graph.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CheatSheet.dir/Modules/Graph.cpp.o -c /home/brahim/Workspace/CheatSheet/Modules/Graph.cpp
+
+CMakeFiles/CheatSheet.dir/Modules/Graph.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CheatSheet.dir/Modules/Graph.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/brahim/Workspace/CheatSheet/Modules/Graph.cpp > CMakeFiles/CheatSheet.dir/Modules/Graph.cpp.i
+
+CMakeFiles/CheatSheet.dir/Modules/Graph.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CheatSheet.dir/Modules/Graph.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/brahim/Workspace/CheatSheet/Modules/Graph.cpp -o CMakeFiles/CheatSheet.dir/Modules/Graph.cpp.s
+
 # Object files for target CheatSheet
 CheatSheet_OBJECTS = \
 "CMakeFiles/CheatSheet.dir/library.cpp.o" \
-"CMakeFiles/CheatSheet.dir/stl.cpp.o"
+"CMakeFiles/CheatSheet.dir/stl.cpp.o" \
+"CMakeFiles/CheatSheet.dir/Modules/Graph.cpp.o"
 
 # External object files for target CheatSheet
 CheatSheet_EXTERNAL_OBJECTS =
 
 libCheatSheet.a: CMakeFiles/CheatSheet.dir/library.cpp.o
 libCheatSheet.a: CMakeFiles/CheatSheet.dir/stl.cpp.o
+libCheatSheet.a: CMakeFiles/CheatSheet.dir/Modules/Graph.cpp.o
 libCheatSheet.a: CMakeFiles/CheatSheet.dir/build.make
 libCheatSheet.a: CMakeFiles/CheatSheet.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/brahim/Workspace/CheatSheet/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX static library libCheatSheet.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/brahim/Workspace/CheatSheet/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX static library libCheatSheet.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/CheatSheet.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CheatSheet.dir/link.txt --verbose=$(VERBOSE)
 
